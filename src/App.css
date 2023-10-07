@@ -75,6 +75,10 @@
   }
 }
 
-#couter_heading{
+#couter_heading , i{
   color: red;
 }
+#props_id{
+  color: blue;
+}
+ 
